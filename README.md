@@ -92,3 +92,9 @@ Contributions are welcome! If you have suggestions for improvements or find any 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
+## Screenshots
+<img width="574" height="442" alt="ss1" src="https://github.com/user-attachments/assets/7444ea4a-12b2-4dd7-bb38-97a13b1e90c7" />
+
+
+<img width="1151" height="897" alt="ss2" src="https://github.com/user-attachments/assets/7c4c0b5c-0323-42d6-9f45-82d4020cfea6" />
+
